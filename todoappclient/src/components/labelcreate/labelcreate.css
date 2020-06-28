@@ -1,0 +1,8 @@
+div.create-label {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 300px;
+}

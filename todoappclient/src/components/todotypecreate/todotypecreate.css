@@ -1,0 +1,8 @@
+div.create-type {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 300px;
+}
